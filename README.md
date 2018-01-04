@@ -2,3 +2,5 @@
 This is hello world 
 
 This is a GitHub that I will be making and hope to do cool things with
+
+I enjoy making projects
